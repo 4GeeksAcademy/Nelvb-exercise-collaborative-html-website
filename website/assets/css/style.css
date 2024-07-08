@@ -1,6 +1,6 @@
 
 body{
-    background: white
+    background: white;
 }
 
 img {
@@ -15,7 +15,7 @@ img {
     font-size: 200px;
     width: 95%;
     top:100px;
-    left:50px;
+    left:100px;
 }
 
 .title2 p{
